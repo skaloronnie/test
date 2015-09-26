@@ -1,6 +1,6 @@
 http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off/
 
-Five years, building a culture, and handing it off.
+# Five years, building a culture, and handing it off.
 August 31st, 2015
 
 Theory 1: Nothing we “know” about software development should be assumed to be true.
