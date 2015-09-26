@@ -8,6 +8,8 @@ https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.h
 
 > Partition Tolerance (terribly mis-named) basically means that you’re communicating over an **asynchronous network** that may delay or drop messages. The internet and all our datacenters have this property, so you don’t really have any choice in this matter.
 
+## CAP-Availability
+
 Clearly you can choose one of two things:
 
 1. The application continues to be allowed to write to the database, so it remains fully available in both datacenters. However, as long as the replication link is interrupted, any changes that are written in one datacenter will not appear in the other datacenter. This violates linearizability (in terms of the previous example, Alice could be connected to DC 1 and Bob could be connected to DC 2).
