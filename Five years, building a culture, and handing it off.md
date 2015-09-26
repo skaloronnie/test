@@ -5,7 +5,7 @@ August 31st, 2015
 
 Theory 1: Nothing we “know” about software development should be assumed to be true.
 
-Most of our tools, our mental models, and our practices are remnants of an era (possibly fictional) where software was written by solo practitioners, but _modern software is a team sport_.
+Most of our tools, our mental models, and our practices are remnants of an era (possibly fictional) where software was written by solo practitioners, but **modern software is a team sport**.
 
 Theory 2: Technology is the product of the culture that builds it.
 
