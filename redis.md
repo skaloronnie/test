@@ -8,7 +8,7 @@ file:///C:/Users/francesco/Documents/projects/javascript/plantuml.html#%5Bredis.
 
 <!--- END OF PLANTUML 18 --> 
 
-```
+```c
 struct redisCommand {
     char *name;
     redisCommandProc *proc;
