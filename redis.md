@@ -23,4 +23,6 @@ struct redisCommand {
     int keystep;  /* The step between first and last key */
     long long microseconds, calls;
 };
+
+typedef int *redisGetKeysProc(struct redisCommand *cmd, robj **argv, int argc, int *numkeys, int flags);
 ```
