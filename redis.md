@@ -1,3 +1,5 @@
 redis.c: main
 
-```initServerConfig();```
+```
+initServerConfig();
+```
