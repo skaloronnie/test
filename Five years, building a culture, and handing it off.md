@@ -15,7 +15,7 @@ Culture is what you do, not what you say. It starts at the top. It affects every
 
 Theory 3: Software development should be thought of as a cycle of continual learning and improvement rather a progression from start to finish, or a search for correctness.
 
-If you aren’t shipping, you aren’t learning. If it slows down shipping, it probably isn’t worth it. Maturity is knowing when to make the trade off and when not to.
+**If you aren’t shipping, you aren’t learning.** If it slows down shipping, it probably isn’t worth it. Maturity is knowing when to make the trade off and when not to.
 
 I had some experience with this at Flickr, and I wanted to see how far you could scale it. My private bet was that we’d make it to 50 engineers before things broke down.
 
