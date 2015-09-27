@@ -38,7 +38,7 @@ Key components for configuring Cassandra
  * You must configure a snitch when you create a cluster. 
  * All snitches use a dynamic snitch layer, which monitors performance and chooses the best replica for reading. It is enabled by default and recommended for use in most deployments. 
  * Configure dynamic snitch thresholds for each node in the cassandra.yaml configuration file.
- * The GossipingPropertyFileSnitch is recommended for production. It defines a node's data center and rack and uses gossip for propagating this information to other nodes.
+ * The **GossipingPropertyFileSnitch** is recommended for production. It defines a node's data center and rack and uses gossip for propagating this information to other nodes.
 
 
 ## Commands
