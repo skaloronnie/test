@@ -4,5 +4,9 @@ https://wiki.apache.org/cassandra/ArchitectureInternals
 
 ## Commands
     nodetool tpstats
+
+```
+nodetool tpstats
+```
     
 asfasf
