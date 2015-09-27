@@ -64,6 +64,16 @@ A hint indicates that a write needs to be replayed to one or more unavailable no
 
 If the node recovers after the save time has elapsed, run a repair to **re-replicate the data** written during the down time.
 
+Example:
+
+* cluster of two nodes, A and B, replication factor (RF) of 1
+* node A is down while we write row K to it with consistency level of one
+* write fails because reads always reflect the most recent write when `W + R > replication factor`
+ * W is the number of nodes to block for writes
+ * R is the number of nodes to block for reads
+* does not write a hint to B and call the write good
+* cannot read the data at any consistency level until A comes back up and B forwards the data to A
+
 # Commands
     nodetool tpstats
 
