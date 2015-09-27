@@ -13,6 +13,9 @@ Client request
 1. When a client connects to a node with a request, that node serves as the coordinator for that particular client operation. 
 1. The coordinator determines which nodes in the ring should get the request based on how the cluster is configured.
 
+SSTable
+
+> A sorted string table (SSTable) is an immutable data file to which Cassandra writes memtables periodically. SSTables are append only and stored on disk sequentially and maintained for each Cassandra table.
 
 ## Commands
     nodetool tpstats
