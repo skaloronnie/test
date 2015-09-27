@@ -14,7 +14,7 @@ http://www.slideshare.net/imcsummit/imcs2015-2-bus4-myth-about-inmemory-database
  * response serialization
 1. Connection pool vs. short-lived connections
 1. Single-threaded vs. multi-threaded
- * lock-free vs. parallel computing
+ * **lock-free** vs. parallel computing
 1. Amount of shared data
  * **shared-nothing** vs. shared-something vs. shared-everything
 1. Built-in acceleration components
