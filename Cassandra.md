@@ -15,7 +15,11 @@ Client request
 
 SSTable
 
-> A sorted string table (SSTable) is an immutable data file to which Cassandra writes memtables periodically. SSTables are append only and stored on disk sequentially and maintained for each Cassandra table.
+* A sorted string table (SSTable)
+* immutable data file to which Cassandra writes memtables periodically. 
+* append only
+* stored on disk sequentially 
+* maintained for each Cassandra table.
 
 ## Commands
     nodetool tpstats
