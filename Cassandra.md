@@ -55,8 +55,14 @@ http://docs.datastax.com/en/cassandra/2.0/cassandra/dml/dml_write_path_c.html
 ## The write path of an update
 http://docs.datastax.com/en/cassandra/2.0/cassandra/dml/dml_write_update_c.html
 
-## hinted handoff writes
+## Hinted handoff writes
+During a write operation, when hinted handoff is enabled and **consistency can be met**, the coordinator stores a hint about dead replicas in the local system.hints table under either of these conditions:
+* A replica node for the row is known to be down ahead of time.
+* A replica node does not respond to the write request.
 
+A hint indicates that a write needs to be replayed to one or more unavailable nodes.
+
+If the node recovers after the save time has elapsed, run a repair to **re-replicate the data** written during the down time.
 
 # Commands
     nodetool tpstats
