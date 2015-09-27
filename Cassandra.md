@@ -38,8 +38,27 @@ http://www.slideshare.net/acunu/cassandra-internals-solving-problems
  * Configure dynamic snitch thresholds for each node in the cassandra.yaml configuration file.
  * The **GossipingPropertyFileSnitch** is recommended for production. It defines a node's data center and rack and uses gossip for propagating this information to other nodes.
 
+# Database internals
 
-## Commands
+* storage structure similar to a Log-Structured Merge Tree
+* avoids reading before writing
+ * can produce stalls in read performance and other problems
+ * corrupts caches and increases IO requirements
+* groups inserts/updates to be made
+* and sequentially writes only the updated parts of a row in append mode
+* never re-writes or re-reads existing data, and never overwrites the rows in place.
+* avoids overwrites and uses sequential IO to update data
+
+## The write path to compaction
+http://docs.datastax.com/en/cassandra/2.0/cassandra/dml/dml_write_path_c.html
+
+## The write path of an update
+http://docs.datastax.com/en/cassandra/2.0/cassandra/dml/dml_write_update_c.html
+
+## hinted handoff writes
+
+
+# Commands
     nodetool tpstats
 
     nodetool cfhistograms
