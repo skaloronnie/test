@@ -79,6 +79,8 @@ Example:
 
 ![dml_hinted_handoff](https://cloud.githubusercontent.com/assets/14850484/10122154/3db10690-6506-11e5-96dd-e736c372f39c.png)
 
+http://docs.datastax.com/en/cassandra/2.0/cassandra/dml/dml_about_hh_c.html?scroll=concept_ds_ifg_jqx_zj__extreme-write-availability
+
 # Commands
     nodetool tpstats
 
