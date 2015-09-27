@@ -74,6 +74,8 @@ Example:
 * does not write a hint to B and call the write good
 * cannot read the data at any consistency level until A comes back up and B forwards the data to A
 * with 3 nodes and RF=2, hint is written
+ * `W=1`
+ * `R=1` (consistency level=1)
 
 ![dml_hinted_handoff](https://cloud.githubusercontent.com/assets/14850484/10122154/3db10690-6506-11e5-96dd-e736c372f39c.png)
 
