@@ -8,6 +8,12 @@ http://www.slideshare.net/acunu/cassandra-internals-solving-problems
 1.  All writes are automatically partitioned and **replicated** throughout the cluster
 1.  Using a process called **compaction** Cassandra periodically consolidates SSTables, discarding obsolete data and tombstones (an indicator that data was deleted)
 
+Client request
+
+1. When a client connects to a node with a request, that node serves as the coordinator for that particular client operation. 
+1. The coordinator determines which nodes in the ring should get the request based on how the cluster is configured.
+
+
 ## Commands
     nodetool tpstats
 
