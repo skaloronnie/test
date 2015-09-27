@@ -16,9 +16,9 @@ Client request
 SSTable
 
 * A sorted string table (SSTable)
-* immutable data file to which Cassandra writes memtables periodically. 
+* **immutable** data file to which Cassandra writes memtables periodically. 
 * append only
-* stored on disk sequentially 
+* stored on disk **sequentially** 
 * maintained for each Cassandra table.
 
 ## Commands
