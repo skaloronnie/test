@@ -14,4 +14,3 @@ In contrast, to be successful in industry, whether in engineering or in research
 
 You will be rewarded for contributing key ideas to a product, but you will be **rewarded even more for getting the job done**, collaborating effectively across teams, and pleasing customers. 
 
-This advice may be even more useful for academics founding startups. Once you founded your company based on the great research you conducted at the university, the company takes a life of its own and the most important goal is to create a product that users want. 
