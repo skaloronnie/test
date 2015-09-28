@@ -10,4 +10,6 @@ The main difference, however, which can be very subtle and perhaps only obvious 
 
 In contrast, to be successful in industry, whether in engineering or in research, you often need to **put your individual goals and ideas aside.** You need to find the most effective way to get to a great product or service (or part thereof) even if it means finding the right mix of ideas. 
 
-You will be rewarded for contributing key ideas to a product, but you will be **rewarded even more for getting the job done**, collaborating effectively across teams, and pleasing customers. This advice may be even more useful for academics founding startups. Once you founded your company based on the great research you conducted at the university, the company takes a life of its own and the most important goal is to create a product that users want. 
+You will be rewarded for contributing key ideas to a product, but you will be **rewarded even more for getting the job done**, collaborating effectively across teams, and pleasing customers. 
+
+This advice may be even more useful for academics founding startups. Once you founded your company based on the great research you conducted at the university, the company takes a life of its own and the most important goal is to create a product that users want. 
