@@ -1,4 +1,5 @@
 > http://wp.sigmod.org/?p=1851
+
 > Alon Halevy heads the Structured Data Management Research group at Google. 
 
 # Academia vs. Industry
