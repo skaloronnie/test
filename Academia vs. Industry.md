@@ -1,5 +1,7 @@
 http://wp.sigmod.org/?p=1851
 
+> Alon Halevy heads the Structured Data Management Research group at Google. 
+
 # Academia vs. Industry
 
 As a former academic, I’m often asked about the difference between academia and industry. 
