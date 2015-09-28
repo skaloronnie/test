@@ -3,6 +3,7 @@ http://wp.sigmod.org/?p=1851
 # Academia vs. Industry
 
 As a former academic, I’m often asked about the difference between academia and industry. 
+
 There are many answers to this, including the fact that **in industry you need to solve the entire problem** rather than cherry pick the nugget you wish to solve elegantly. 
 
 The main difference, however, which can be very subtle and perhaps only obvious in hindsight is the following. [...] In academia, as you pursue your passion for science and technology, the evaluation of faculty creates pressure to further your career **as an individual**, whether it is through publications, graduating and promoting your students or being an excellent educator. You are by necessity the champion of your own ideas, which I think is ultimately a critical ingredient to scientific progress. 
