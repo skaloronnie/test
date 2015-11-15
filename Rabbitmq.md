@@ -23,7 +23,7 @@ http://levvel.io/blog-post/rabbitmq-an-introduction/
 
 - exchanges and queues
 - queues can be replicated across nodes in a cluster
-  - master queueand slave queue (used when node holding master queue crashes)
+  - master queue and slave queues (used when node holding master queue crashes)
 
 ![](http://levvel.wpengine.com/wp-content/uploads/2015/08/1432916675391.png)
 
