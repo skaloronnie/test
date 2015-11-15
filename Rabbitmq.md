@@ -11,6 +11,12 @@ RabbitMQ
 - if you want to have high persistence guarantees, RabbitMQ ensures replication across the cluster, and on disk, on message send
 - a very popular choice and used in many projects
 
+Problems
+
+- rate of inserts slows down when rabbitmq is writing to died
+- problem with executing *resync* after bringing one of the nodes down
+  - got stuck with one thread at 100% cpu
+
 https://softwaremill.com/mqperf/
 
 http://technewsnow.com/news/vmware-s-rabbitmq-vs-linkedin-s-kafka
