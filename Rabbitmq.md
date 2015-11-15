@@ -8,6 +8,8 @@ RabbitMQ
   - single thread: 1000 msgs/s
   - multiple threads/nodes: 3600 msgs/ss
 - web based console
+- if you want to have high persistence guarantees, RabbitMQ ensures replication across the cluster, and on disk, on message send
+- a very popular choice and used in many projects
 
 https://softwaremill.com/mqperf/
 
