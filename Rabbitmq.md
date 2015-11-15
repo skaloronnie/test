@@ -19,7 +19,7 @@
 
 # Kafka
 
-- very high throughput
+- very high throughput: 30k msgs/s
 - file based, consumers based on reading from offset
 - not flexible
 - no front end ui
