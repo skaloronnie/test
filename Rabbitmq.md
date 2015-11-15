@@ -29,6 +29,8 @@ http://levvel.io/blog-post/rabbitmq-an-introduction/
 
 http://levvel.io/blog-post/extending-a-rabbitmq-cluster-across-a-wan/
 
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html
+
 
 # Kafka
 
