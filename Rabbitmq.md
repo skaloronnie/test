@@ -13,7 +13,7 @@
 
 ## Problems
 
-- rate of inserts slows down when rabbitmq is writing to died
+- rate of inserts slows down when rabbitmq is writing to disk
 - problem with executing *resync* after bringing one of the nodes down
   - got stuck with one thread at 100% cpu
 
