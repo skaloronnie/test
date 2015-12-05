@@ -19,3 +19,7 @@ unwinding.
 All functions have to save some information for the exception handler, **even if no exception
 ever happens**. This is the reason why exception handling is expensive.
 
+# Optimizing memory access
+
+# Specific optimization tips
+
