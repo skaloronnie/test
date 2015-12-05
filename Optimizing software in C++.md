@@ -4,7 +4,7 @@ platforms
 By Agner Fog. Copenhagen University College of Engineering.
 Copyright © 2009. Last updated 2009-09-26.
 
-# Exceptions
+# Exceptions and stack unwinding
 
 The function F1 is supposed to call the destructor for the object x when it returns. But what
 if an exception occurs somewhere in F1? Then we are breaking out of F1 without returning.
@@ -16,6 +16,6 @@ exception occurs in the innermost function, then the exception handler **needs a
 about the chain of function calls** and it needs to follow the **track backwards though the
 function calls to check for all the necessary cleanup jobs** to do. This is called stack
 unwinding.
-All functions have to save some information for the exception handler, even if no exception
-ever happens. This is the reason why exception handling is expensive.
+All functions have to save some information for the exception handler, **even if no exception
+ever happens**. This is the reason why exception handling is expensive.
 
