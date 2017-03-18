@@ -53,6 +53,33 @@ Output: `1 2 2 4 5 7` (duplicates kept only twice)
 
 Complexity: `O(n * log n)`
 
+#### Can sorting be avoided for this step?
+
+Input: `2 4 2 7 2 1 3`
+
+Construct hash table:
+
+```
+map: number -> count
+{
+  2 -> 3
+  4 -> 1
+  7 -> 1
+  1 -> 1
+  3 -> 1
+}
+```
+
+Output: `4 1  7 2 2 3` (random order, depends on hash function)
+
+Complexity
+- generate map: `O(n)` 
+- iterate map:  `O(m)`, where `m <= n`
+- generate output: `O(m)`
+
+When better: if `log n > 3` (i.e. when approx. `n > 10`)
+
+
 ### Step 2
 
 Hash function:
