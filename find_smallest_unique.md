@@ -76,6 +76,7 @@ Complexity
 - generate map: `O(n)` 
 - iterate map:  `O(m)`, where `m <= n`
 - generate output: `O(m)`
+- **Overall**: `O(n)`
 
 When better: if `log n > 3` (i.e. when approx. `n > 10`)
 
@@ -121,3 +122,4 @@ Output: `3`
 Complexity: `O(n * log n)`
 
 
+  
