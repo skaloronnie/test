@@ -19,9 +19,11 @@ Complexity: `O(n * log n)`
 
 ![](www.forkosh.com/cgi-bin/mimetex.cgi?formdata=O(n^2))
 
+![](https://media.giphy.com/media/l3zoKeX8bMG5sMP4s/giphy.gif)
+
 ## Node 2
 
-Input: `4 7 1 2 2 5`
+Input: `4 7 1 2 2 5`eeeeee
 
 After sorting: `1 2 2 4 5 7`
 
