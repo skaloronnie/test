@@ -1,3 +1,7 @@
+# Find first unique
+
+https://jbt.github.io/markdown-editor/#pZHNDoIwEITv+xSTcNHEC38h8ebFxIsXXwCkRZrAFksbX9+C+O+FeGi22enMfm0DbBULVMr0Fo7V2Umwa4/SEO24c3aNPEKCCJlfIVK/z3y99eKcKAgCHKzsEBLttZBD/en0Z7cvY7yc5FhcjObTkmjTNJPQD8o4JPW6KVjoFtoIaVYQspMsemhGXfQ1KselVZqnAOG6RpWFHTOiOe6RPHqSf97yHW/Q4r/gfO4c/+ORvxDvHzJA0hU=
+
 # Find smallest unique
 
 ## Problem statement
