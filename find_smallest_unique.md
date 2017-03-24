@@ -7,7 +7,7 @@ https://jbt.github.io/markdown-editor/#pZHNDoIwEITv+xSTcNHEC38h8ebFxIsXXwCkRZrAF
 ## Problem statement
 
 - N players pick a number
-- The player who picked the *smallest* number* that *nobody else picked* wins
+- The player who picked the *smallest number* that *nobody else picked* wins
 
 ## Considerations
 
