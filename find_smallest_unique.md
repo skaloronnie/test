@@ -2,7 +2,7 @@
 
 https://jbt.github.io/markdown-editor/#pZHNDoIwEITv+xSTcNHEC38h8ebFxIsXXwCkRZrAFksbX9+C+O+FeGi22enMfm0DbBULVMr0Fo7V2Umwa4/SEO24c3aNPEKCCJlfIVK/z3y99eKcKAgCHKzsEBLttZBD/en0Z7cvY7yc5FhcjObTkmjTNJPQD8o4JPW6KVjoFtoIaVYQspMsemhGXfQ1KselVZqnAOG6RpWFHTOiOe6RPHqSf97yHW/Q4r/gfO4c/+ORvxDvHzJA0hU=
 
-https://jbt.github.io/markdown-editor/#pVZtT9tIEP7uXzESXxIfiXASVAn1iiqO0/GhUJWT7kNVyRt7kqywd327ayCq7r/fzKydGAj0XoSQNrPzPvM86yP4VZsSfK2qCn2A1ug/W0ySoyP47Oyywhp8UAFrNCFJJnANTaW26Dw0urgDBaatl+jo5vcNdnfwsLFyjSUEkqY771E5JakKkBq7tOUWsPLYqafwoI2X6BfWeF2iU0HbKDqCW23WFU6MLRG8rVq+SpJsSj9ckFDaNG2A/GZkIIXKrsGMc1ZYcZGs8KxQUSWV5MLWTYWPOmzPnptz6MOxYbTEENCNJQkdOFukMM62642EU86pLSgKXtjWBLBF0TqHpkBoPXmkBm6U30Ctmj6V+WFPOzV25jC0zrxWUD3Oj2kG6OhXDe9/BnOgwK4w+EX74PSyDTSsfU+72dNYs5MT4KI91UL13CtdKbqCYME3SEZtE/PobSeAqtiIDeVZoL5nW0gdrlAqT9l2NyzSj+4LZcAjFSfmlhQclCqoJPn4+cqTWq6pgZ+216R9VY4o/050LUt1s+IL38nvrS7hlryNWMOIyTHwmV2OcxKZybKyxR0NoXf0JWZLLmB3FYf/fBkJBzYAGpmOXg0q5go8V6cdLVBBs9m+ABfAhMZDCCBLuulQERssrVQ1nv8wBls+jdNtQOdOwjjt78CuYKUEZNbrQBXCSB02glqvN9yvAEuEdWWXA52xeMTpehrTyGiRMpjBnLZNBDMRzGFBAieOlPEP6Eg8Ex1CZpY/LYzXiIfO1XSp/CQ/yrapdEEo8JCmpJVJjDR9s3vRw3nkF8npwbZVycXYe3SEiarGkjLo9tsT34RNB8U0rW3ZVjaVBVXe67XZeSeJrOmb4eu2CppQxh3nQUZ/MOICCSba7MYrzsZCdJePipGZJFcMB+4VLKir7+hfmkkn7vIMTgmxH/uGzjv43gZsIKONnEyS5LJfEaowqDvBXUPUyFTVpdRjjhnTE9HQkQnFtoHkrF8RH7ByX1fkETYdTISLddigYtawhlYkPOgCuzQEMteyIq9UxZWsiOQkDep9t0n8JxXT/Y1ktLuIYhgNkrjDJgyCj/8BiUtSs31Sz5p7MKUFnB5KKIr/b0IXTHoxIC+pYt6ilq6so5ZrT28vNuevN5F5Kbi2CPF5CMzMZ0mS53lCT8VZj+rJh/j8JN9pfWf8c06HBR8yOrzrD1l/mMfDX+JpX/mCNCQ6gx5GjjbH1mAdMeMxlLQPzEu0a5LMqjUFb96TNtC6rdHE100yjE8RkLx/9ET82jM2MLd9VqJJN2l6QxgnTKbp/on7Y4MG4it9xpDNpf/wQQrQU5xyBAOqaZx9nELOV9lJTknv4TXr9vq3YVkwaj1/31gotW9UIOS9BA/d7mibXF4Sdwr9dez5VejzW5fJcU/pkPn9eTY4z/24N2eu/So7+O2Vx72HYqxhfoAiIgcMWaGnAZb1tTx7VQ5A/Av6hh9I/iygzd09C/u93YNbTsOd4jkIZp7G+Tdofhm/x+wQ53scR9npfw0cG7roOvFJeWaNrqX8nekPfZcN+zY02aU4FwoatOXtPAikyd8=
+https://jbt.github.io/markdown-editor/#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
 
 # Find smallest unique
 
@@ -11,23 +11,42 @@ https://jbt.github.io/markdown-editor/#pVZtT9tIEP7uXzESXxIfiXASVAn1iiqO0/GhUJWT7
 - N players pick a number
 - The player who picked the *smallest number* that *nobody else picked* wins
 
-## Considerations
+## Interview steps
 
-### Single-node solution
+What is known
+- number of players **N** (= size of the array)
+- number of threads/nodes (100)
+
+Steps
+
+- single-node solution (sort-based)
+- any improvement? (hashmap-based)
+- what if N is **very large**?
+
+Competencies
+
+- hash functions and application outside of a hash map
+- hash maps
+- sorting
+- how to distribute load across nodes
+- some idea of multi threading
+
+
+## Single-node solution
 
 1. sort the input `O(n * log n)`
 1. find the smallest unique `O(n)`
 
 Complexity: `O(n * log n)`
 
-#### Single-node solution (better)
+### Single-node solution (better)
 
 1. iterate through the array and count occurrence using a hash map `O(n)`
 3. iterate through the hash map and return the smallest unique `O(m)`, where `m <= n`
 
 Complexity: `O(n)`
 
-### Distributed solution
+## Distributed solution
 
 Problem
 - 100 nodes are available to speed up the solution
@@ -40,7 +59,7 @@ APIs
 - `void Send(int nodeId, int data)` non-blocking
 - `int Receive()` blocking
 
-#### Considerations
+### Considerations
 
 - Not enough if each node sends their locally smallest unique
   - what if all numbers are the same?
@@ -178,5 +197,21 @@ Output: `3`
 
 Complexity: `O(n * log n)`
 
+#### Pseudo code
+
+```python
+# N: length of the array
+# Node 0: [0, N / NumberOfNodes() - 1]
+# Node 1: [N / NumberOfNodes(), 2 * N / NumberOfNodes() - 1]
+k = MyNodeId()
+input = Numbers[k * N / NumberOfNodes() : (k + 1) * N / NumberOfNodes() - 1]
+sort(input)
+for n in input:
+  #discards any occurrence of a number appearing more than 2 times
+for n in input:
+  nodeToSend = n % NumberOfNodes() #better: use a hash function
+  Send(nodeToSend, n) # Send(nodeId, data)
+...
+```
 
   
